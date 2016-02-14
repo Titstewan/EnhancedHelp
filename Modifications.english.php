@@ -1,3 +1,4 @@
+<?php
 // Enhanced Help mod
 // Main stuff
 $txt['ln_main_title'] = 'LearnNavi Community General Help and Info';
@@ -86,3 +87,4 @@ $txt['ln_bbc_18'] = 'Right-to-Left and Left-to-Right';
 $txt['ln_bbc_19'] = 'Abbreviation and Acronym';
 $txt['ln_bbc_20'] = 'More BB Codes (Syntax only)';
 // end of Enhanced Help mod
+?>
