@@ -15,6 +15,7 @@ $txt['ln_group_page'] = 'Useful links: <a id="button_rss" class="new_win" href="
 // General help
 $txt['ln_main_text1'] = '<strong>Login</strong><br />To login successfully, you have to use your <strong>username</strong> (not to be confused with your <strong>display name</strong>!). A username is the name used to login to an SMF forum and it is the name you have used for register an account on this forum.';
 $txt['ln_main_text2'] = '<strong>Account Security</strong><br />You should pay attention to your forum account, particulary its protection. Use the logout button if you have to go or not at your computer to prevent account theft.';
+// Maybe some more text for the future
 // Examples
 $txt['ln_bbc_b'] = 'This text is bold.';
 $txt['ln_bbc_i'] = 'This text is italic.';
