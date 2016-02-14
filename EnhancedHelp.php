@@ -3,7 +3,7 @@
 An enhanced Help page, written exclusively for LearnNa'vi.org
 
 Author: Tìtstewan
-titstewan@learnnavi.org
+learnnavi.org
 
 CC BY-NC-SA 4.0 http://creativecommons.org/licenses/by-nc-sa/4.0/
 2016 February, 14
