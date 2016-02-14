@@ -14,7 +14,7 @@ $txt['ln_bbc_lin'] = 'Link';
 $txt['ln_group_page'] = 'Useful links: <a id="button_rss" class="new_win" href="http://forum.learnnavi.org/index.php?topic=6770.0">Site Rules</a> | <a id="button_rss" class="new_win" href="http://forum.learnnavi.org/index.php?action=groups">Group Page</a>';
 // General help
 $txt['ln_main_text1'] = '<strong>Login</strong><br />To login successfully, you have to use your <strong>username</strong> (not to be confused with your <strong>display name</strong>!). A username is the name used to login to an SMF forum and it is the name you have used for register an account on this forum.';
-$txt['ln_main_text2'] = '<strong>Account Security</strong><br />You should pay attention to your forum account, particulary its protection. Use the logout button if you have to go or not at your computer to prevent account theft.';
+$txt['ln_main_text2'] = '<strong>Account Security</strong><br />You should pay attention to your forum account, particulary its protection. Use the logout button if you have to go or not at your computer just to prevent account theft.';
 // Maybe some more text for the future
 // Examples
 $txt['ln_bbc_b'] = 'This text is bold.';
@@ -22,7 +22,7 @@ $txt['ln_bbc_i'] = 'This text is italic.';
 $txt['ln_bbc_u'] = 'This text is underlined.';
 $txt['ln_bbc_s'] = 'This text is struck through.';
 $txt['ln_bbc_ean'] = 'This text is blue.';
-$txt['ln_bbc_big'] = 'This text becommes big.';
+$txt['ln_bbc_big'] = 'This text becomes big.';
 $txt['ln_bbc_font'] = 'This text uses the Courier font';
 $txt['ln_bbc_font_info'] = 'Only fonts installed on the user\'s computer will be displayed, so use with caution!';
 $txt['ln_bbc_left'] = 'This text is on the left side.';
