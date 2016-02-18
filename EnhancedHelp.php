@@ -280,8 +280,8 @@ function enhanced_help()
 							</fieldset>
 							<fieldset>
 								<legend>', $txt['ln_bbc_out'], '</legend>
-								<div class="spoiler"><div class="spoilerheader"><img src="/Themes/default/images/bbc/spoiler.gif" alt="Spoiler icon"><a href="javascript:void(0)" onclick="n = this.parentNode.parentNode.lastChild; if(n.style.display == \'none\') { n.style.display = \'block\';} else {n.style.display = \'none\';} return false;">Spoiler</a></div><div class="spoilerbody" style="display: none;">', $txt['ln_bbc_spoiler'], '</div></div>
-								<div class="spoiler"><div class="spoilerheader"><img src="/Themes/default/images/bbc/spoiler.gif" alt="Spoiler icon"><a href="javascript:void(0)" onclick="n = this.parentNode.parentNode.lastChild; if(n.style.display == \'none\') {n.style.display = \'block\';} else {n.style.display = \'none\';} return false;">Spoiler: ', $txt['ln_bbc_tex'], '</a></div><div class="spoilerbody" style="display: none;">', $txt['ln_bbc_spoiler'], '</div></div>
+								<div class="spoiler"><div class="spoilerheader"><a href="javascript:void(0)" onclick="n = this.parentNode.parentNode.lastChild; if(n.style.display == \'none\') { n.style.display = \'block\';} else {n.style.display = \'none\';} return false;">Spoiler</a></div><div class="spoilerbody" style="display: none;">', $txt['ln_bbc_spoiler'], '</div></div>
+								<div class="spoiler"><div class="spoilerheader"><a href="javascript:void(0)" onclick="n = this.parentNode.parentNode.lastChild; if(n.style.display == \'none\') {n.style.display = \'block\';} else {n.style.display = \'none\';} return false;">Spoiler: ', $txt['ln_bbc_tex'], '</a></div><div class="spoilerbody" style="display: none;">', $txt['ln_bbc_spoiler'], '</div></div>
 							</fieldset>
 						</div>
 						<div style="margin: 2px 0 2px 0;">
