@@ -14,11 +14,12 @@ Add following code in /Themes/default/Help.template.php
 !!! DO NOT forget to globalize the variable $sourcedir first !!!
 
 // This will call the little custom function - ta Titstewan
+// Place the code below inside the template_manual() function.
 require_once($sourcedir . '/EnhancedHelp.php');
 enhanced_help();
 
 ----
-The text strings for translations are in /Themes/default/languages/Modifications.english(-utf8).php
+The text strings for translations are in /Themes/default/languages/Modifications.english.php
 */
 if (!defined('SMF'))
 	die('Hacking attempt...');
