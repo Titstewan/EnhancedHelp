@@ -1,4 +1,5 @@
 <?php
+// Version: 2.1 RC4; Modifications
 // Enhanced Help mod
 // Main stuff
 $txt['ln_main_title'] = 'LearnNavi Community General Help and Info';
@@ -11,7 +12,7 @@ $txt['ln_bbc_out'] = 'Result';
 $txt['ln_bbc_tex'] = 'Text';
 $txt['ln_bbc_opt'] = 'Option';
 $txt['ln_bbc_lin'] = 'Link';
-$txt['ln_group_page'] = 'Useful links: <a id="button_rss" class="new_win" href="http://forum.learnnavi.org/index.php?topic=6770.0">Site Rules</a> | <a id="button_rss" class="new_win" href="http://forum.learnnavi.org/index.php?action=groups">Group Page</a>';
+$txt['ln_group_page'] = 'Useful links: <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?topic=6770.0">Site Rules</a> | <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?action=groups">Group Page</a>';
 // General help
 $txt['ln_main_text1'] = '<strong>Login</strong><br />To login successfully, you have to use your <strong>username</strong> (not to be confused with your <strong>display name</strong>!). A username is the name used to login to an SMF forum and it is the name you have used for register an account on this forum.';
 $txt['ln_main_text2'] = '<strong>Account Security</strong><br />You should pay attention to your forum account, particulary its protection. Use the logout button if you have to go or not at your computer just to prevent account theft.';
@@ -28,7 +29,7 @@ $txt['ln_bbc_font_info'] = 'Only fonts installed on the user\'s computer will be
 $txt['ln_bbc_left'] = 'This text is on the left side.';
 $txt['ln_bbc_center'] = 'This text is centered.';
 $txt['ln_bbc_right'] = 'This text is on right side';
-$txt['ln_bbc_ln_link'] = 'http://learnnavi.org/';
+$txt['ln_bbc_ln_link'] = 'https://learnnavi.org/';
 $txt['ln_bbc_ln_text'] = 'LearnNavi.org';
 $txt['ln_bbc_iurl'] = 'The iurl tag usually links to an anchor or certain IDs (like post ID) on the same windows or browser tab. This tag can be used to link to other pages - like a normal url - but it does not open a new windows or browser tab. This tag is very useful for large posts that have a table of content.';
 $txt['ln_bbc_lin2'] = 'Link, #anchor name or #ID';
@@ -83,9 +84,8 @@ $txt['ln_bbc_13'] = 'Quote';
 $txt['ln_bbc_14'] = 'Code';
 $txt['ln_bbc_15'] = 'PHP Code';
 $txt['ln_bbc_16'] = 'Superscript and Subscript';
-$txt['ln_bbc_17'] = 'Glow and Shadow';
-$txt['ln_bbc_18'] = 'Right-to-Left and Left-to-Right';
-$txt['ln_bbc_19'] = 'Abbreviation and Acronym';
-$txt['ln_bbc_20'] = 'More BB Codes (Syntax only)';
+$txt['ln_bbc_17'] = 'Right-to-Left and Left-to-Right';
+$txt['ln_bbc_18'] = 'Abbreviation and Acronym';
+$txt['ln_bbc_19'] = 'More BB Codes (Syntax only)';
 // end of Enhanced Help mod
 ?>

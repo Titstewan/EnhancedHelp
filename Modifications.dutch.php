@@ -11,7 +11,7 @@ $txt['ln_bbc_out'] = 'Resultaat';
 $txt['ln_bbc_tex'] = 'Tekst';
 $txt['ln_bbc_opt'] = 'Optie';
 $txt['ln_bbc_lin'] = 'Link';
-$txt['ln_group_page'] = 'Nuttige links: <a id="button_rss" class="new_win" href="http://forum.learnnavi.org/index.php?topic=6770.0">Siteregels</a> | <a id="button_rss" class="new_win" href="http://forum.learnnavi.org/index.php?action=groups">Groep-pagina</a>';
+$txt['ln_group_page'] = 'Nuttige links: <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?topic=6770.0">Siteregels</a> | <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?action=groups">Groep-pagina</a>';
 // General help
 $txt['ln_main_text1'] = '<strong>Inloggen</strong><br />Om succesvol in te loggen moet je je <strong>gebruikersnaam</strong> gebruiken (niet te verwarren met je <strong>weergegeven naam</strong>!) Een gebruikersnaam is de naam die je gebruikt om in te loggen bij een SMF-forum, en het is de naam die je hebt gebruikt bij het aanmaken van een account op dit forum.';
 $txt['ln_main_text2'] = '<strong>Accountbeveiliging</strong><br />Je moet opletten op je forumaccount, met name op de beveiliging. Gebruik de uitlogknop als je weggaat of niet bij je computer bent om accountdiefstal te voorkomen.';
@@ -28,7 +28,7 @@ $txt['ln_bbc_font_info'] = 'Alleen lettertypen die geïnstalleerd zijn op de com
 $txt['ln_bbc_left'] = 'Deze tekst is links uitgelijnd.';
 $txt['ln_bbc_center'] = 'Deze tekst is gecentreerd.';
 $txt['ln_bbc_right'] = 'Deze tekst is rechts uitgelijnd.';
-$txt['ln_bbc_ln_link'] = 'http://learnnavi.org/';
+$txt['ln_bbc_ln_link'] = 'https://learnnavi.org/';
 $txt['ln_bbc_ln_text'] = 'LearnNavi.org';
 $txt['ln_bbc_iurl'] = 'De iurl-tag linkt normaal gesproken naar een anker of bepaalde id\'s (zoals een post-id) in hetzelfde venster of tabblad. Deze tag kan worden gebruikt om naar andere pagina\'s te linken - net als een gewone url - maar hij opent geen nieuw venster of tabblad. Deze tag is erg handig voor lange posts met een inhoudsopgave.';
 $txt['ln_bbc_lin2'] = 'Link, #anchor-naam of #id';
@@ -83,9 +83,8 @@ $txt['ln_bbc_13'] = 'Citaat';
 $txt['ln_bbc_14'] = 'Code';
 $txt['ln_bbc_15'] = 'PHP-code';
 $txt['ln_bbc_16'] = 'Superscript en subscript';
-$txt['ln_bbc_17'] = 'Gloei-effecten en schaduw';
-$txt['ln_bbc_18'] = 'Tekstrichting';
-$txt['ln_bbc_19'] = 'Afkortingen';
-$txt['ln_bbc_20'] = 'Meer BB-codes (slechts syntaxis)';
+$txt['ln_bbc_17'] = 'Tekstrichting';
+$txt['ln_bbc_18'] = 'Afkortingen';
+$txt['ln_bbc_19'] = 'Meer BB-codes (slechts syntaxis)';
 // end of Enhanced Help mod
 ?>

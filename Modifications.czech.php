@@ -11,7 +11,7 @@ $txt['ln_bbc_out'] = 'Výsledek';
 $txt['ln_bbc_tex'] = 'Text';
 $txt['ln_bbc_opt'] = 'Parametr';
 $txt['ln_bbc_lin'] = 'Odkaz';
-$txt['ln_group_page'] = 'Užitečné odkazy: <a id="button_rss" class="new_win" href="http://forum.learnnavi.org/index.php?topic=6770.0">Pravidla a politiky</a> | <a id="button_rss" class="new_win" href="http://forum.learnnavi.org/index.php?action=groups">Seznam skupin</a>';
+$txt['ln_group_page'] = 'Užitečné odkazy: <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?topic=6770.0">Pravidla a politiky</a> | <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?action=groups">Seznam skupin</a>';
 // General help
 $txt['ln_main_text1'] = '<strong>Přihlášení</strong><br />Pro úspěšné přihlášení musíte použít vaše <strong>přihlašovací jméno</strong> (nepleťte si je s vaším <strong>zobrazovaným jménem</strong>!). Přihlašovací jméno je jméno, které jste použili při registraci vašeho účtu na tomto fóru a používá se pro přihlášení do SMF fóra.';
 $txt['ln_main_text2'] = '<strong>Bezpečnost účtu</strong><br />Na svůj účet byste si měli dávat pozor, zejména co se jeho ochrany týče. Pokud odcházíte od počítače, použijte tlačítko Odhlásit, abyste zabránili krádeži nebo zneužití účtu.';
@@ -27,7 +27,7 @@ $txt['ln_bbc_font_info'] = 'Zobrazeny budou pouze fonty nainstalované na počí
 $txt['ln_bbc_left'] = 'Tento text je na levé straně.';
 $txt['ln_bbc_center'] = 'Tento text je vystředěn.';
 $txt['ln_bbc_right'] = 'Tento text je napravé straně.';
-$txt['ln_bbc_ln_link'] = 'http://learnnavi.org/';
+$txt['ln_bbc_ln_link'] = 'https://learnnavi.org/';
 $txt['ln_bbc_ln_text'] = 'LearnNavi.org';
 $txt['ln_bbc_iurl'] = 'Tag iurl obvykle odkazuje na pojmenované místo dokumentu (kotva, anchor) nebo určité ID (jako je ID příspěvku) v tomtéž okně nebo záložce web prohlížeče. Tento tag může být použit jako odkaz na jiné stránky - stejně jako běžný tag url - avšak neotevře nové okno / záložku prohlížeče. Tag je velmi užitečný pro rozsáhlé příspěvky, které mají obsah (table of content).';
 $txt['ln_bbc_lin2'] = 'Odkaz, #anchor nebo #ID';
@@ -82,9 +82,8 @@ $txt['ln_bbc_13'] = 'Citace';
 $txt['ln_bbc_14'] = 'Kód';
 $txt['ln_bbc_15'] = 'PHP kód';
 $txt['ln_bbc_16'] = 'Horní a dolní indexy';
-$txt['ln_bbc_17'] = 'Žár and stín';
-$txt['ln_bbc_18'] = 'Zprava-do-Leva and Zleva-do-Prava';
-$txt['ln_bbc_19'] = 'Zkratky a Akronymy';
-$txt['ln_bbc_20'] = 'Další BB kódy (pouze syntax)';
+$txt['ln_bbc_17'] = 'Zprava-do-Leva and Zleva-do-Prava';
+$txt['ln_bbc_18'] = 'Zkratky a Akronymy';
+$txt['ln_bbc_19'] = 'Další BB kódy (pouze syntax)';
 // end of Enhanced Help mod
 ?>

@@ -11,7 +11,7 @@ $txt['ln_bbc_out'] = 'Resultat';
 $txt['ln_bbc_tex'] = 'Text';
 $txt['ln_bbc_opt'] = 'Option';
 $txt['ln_bbc_lin'] = 'Link';
-$txt['ln_group_page'] = 'Nützliche Links: <a id="button_rss" class="new_win" href="http://forum.learnnavi.org/index.php?topic=6770.0">Website-Regeln</a> | <a id="button_rss" class="new_win" href="http://forum.learnnavi.org/index.php?action=groups">Gruppenseite</a>';
+$txt['ln_group_page'] = 'Nützliche Links: <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?topic=6770.0">Website-Regeln</a> | <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?action=groups">Gruppenseite</a>';
 // General help
 $txt['ln_main_text1'] = '<strong>Einloggen</strong><br />Um erfolgreich einzuloggen, musst du dein <strong>Benutzernamen</strong> (nicht zu verwechseln mit dein <strong>Anzeigenamen</strong>!) benutzen. Ein Benutzername ist der Name zum Einloggen in ein SMF Forum und es ist der Name, welches du beim registrieren deines Benutzerkonto für dieses Forum benutzt hast.';
 $txt['ln_main_text2'] = '<strong>Sicherheit des Benutzerkontos</strong><br />Du solltest dein Benutzerkonto für das Forum Aufmerksamkeit schenken, insbesondere den Schutz. Logge dich aus dem Forum, wenn du gehen musst oder du nicht am Computer bist, um Kontodiebstal zu vorzubeugen.';
@@ -28,7 +28,7 @@ $txt['ln_bbc_font_info'] = 'Nur Schriften, die auf den Computer des Benutzers in
 $txt['ln_bbc_left'] = 'Dieser Text ist links.';
 $txt['ln_bbc_center'] = 'Dieser Text ist zentriert.';
 $txt['ln_bbc_right'] = 'Dieser Text ist rechts';
-$txt['ln_bbc_ln_link'] = 'http://learnnavi.org/';
+$txt['ln_bbc_ln_link'] = 'https://learnnavi.org/';
 $txt['ln_bbc_ln_text'] = 'LearnNavi.org';
 $txt['ln_bbc_iurl'] = 'Der iurl-Tag verlinkt zu ein Anker oder ein bestimmte ID (wie Beitrags-ID) im selben Fenster oder Browsertab. Dieser Tag kann auch benutzt werden, um andere Seiten zu verlinken - eine normale url - aber es öffnet kein neues Fenster oder Tab.
 Jene ist besonders nützlich für große Beiträge, welche über ein Inhaltsverzeichnis verfügen.';
@@ -84,9 +84,8 @@ $txt['ln_bbc_13'] = 'Zitat';
 $txt['ln_bbc_14'] = 'Code';
 $txt['ln_bbc_15'] = 'PHP Code';
 $txt['ln_bbc_16'] = 'Hochstellen und Tiefstellen';
-$txt['ln_bbc_17'] = 'Glühen und Schatten';
-$txt['ln_bbc_18'] = 'Rechts-zu-Links und Links-zu-Rechts';
-$txt['ln_bbc_19'] = 'Abkürzung und Akronym';
-$txt['ln_bbc_20'] = 'Mehr BB Codes (nur Syntax)';
+$txt['ln_bbc_17'] = 'Rechts-zu-Links und Links-zu-Rechts';
+$txt['ln_bbc_18'] = 'Abkürzung und Akronym';
+$txt['ln_bbc_19'] = 'Mehr BB Codes (nur Syntax)';
 // end of Enhanced Help mod
 ?>
