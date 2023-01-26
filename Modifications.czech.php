@@ -13,8 +13,8 @@ $txt['ln_bbc_opt'] = 'Parametr';
 $txt['ln_bbc_lin'] = 'Odkaz';
 $txt['ln_group_page'] = 'Užitečné odkazy: <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?topic=6770.0">Pravidla a politiky</a> | <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?action=groups">Seznam skupin</a>';
 // General help
-$txt['ln_main_text1'] = '<strong>Přihlášení</strong><br />Pro úspěšné přihlášení musíte použít vaše <strong>přihlašovací jméno</strong> (nepleťte si je s vaším <strong>zobrazovaným jménem</strong>!). Přihlašovací jméno je jméno, které jste použili při registraci vašeho účtu na tomto fóru a používá se pro přihlášení do SMF fóra.';
-$txt['ln_main_text2'] = '<strong>Bezpečnost účtu</strong><br />Na svůj účet byste si měli dávat pozor, zejména co se jeho ochrany týče. Pokud odcházíte od počítače, použijte tlačítko Odhlásit, abyste zabránili krádeži nebo zneužití účtu.';
+$txt['ln_main_text1'] = '<b>Přihlášení</b><br />Pro úspěšné přihlášení musíte použít vaše <b>přihlašovací jméno</b> (nepleťte si je s vaším <b>zobrazovaným jménem</b>!). Přihlašovací jméno je jméno, které jste použili při registraci vašeho účtu na tomto fóru a používá se pro přihlášení do SMF fóra.';
+$txt['ln_main_text2'] = '<b>Bezpečnost účtu</b><br />Na svůj účet byste si měli dávat pozor, zejména co se jeho ochrany týče. Pokud odcházíte od počítače, použijte tlačítko Odhlásit, abyste zabránili krádeži nebo zneužití účtu.';
 // Examples
 $txt['ln_bbc_b'] = 'Tento text je tučný.';
 $txt['ln_bbc_i'] = 'Tento text je kurzíva.';

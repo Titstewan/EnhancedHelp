@@ -13,8 +13,8 @@ $txt['ln_bbc_opt'] = 'Optie';
 $txt['ln_bbc_lin'] = 'Link';
 $txt['ln_group_page'] = 'Nuttige links: <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?topic=6770.0">Siteregels</a> | <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?action=groups">Groep-pagina</a>';
 // General help
-$txt['ln_main_text1'] = '<strong>Inloggen</strong><br />Om succesvol in te loggen moet je je <strong>gebruikersnaam</strong> gebruiken (niet te verwarren met je <strong>weergegeven naam</strong>!) Een gebruikersnaam is de naam die je gebruikt om in te loggen bij een SMF-forum, en het is de naam die je hebt gebruikt bij het aanmaken van een account op dit forum.';
-$txt['ln_main_text2'] = '<strong>Accountbeveiliging</strong><br />Je moet opletten op je forumaccount, met name op de beveiliging. Gebruik de uitlogknop als je weggaat of niet bij je computer bent om accountdiefstal te voorkomen.';
+$txt['ln_main_text1'] = '<b>Inloggen</b><br />Om succesvol in te loggen moet je je <b>gebruikersnaam</b> gebruiken (niet te verwarren met je <b>weergegeven naam</b>!) Een gebruikersnaam is de naam die je gebruikt om in te loggen bij een SMF-forum, en het is de naam die je hebt gebruikt bij het aanmaken van een account op dit forum.';
+$txt['ln_main_text2'] = '<b>Accountbeveiliging</b><br />Je moet opletten op je forumaccount, met name op de beveiliging. Gebruik de uitlogknop als je weggaat of niet bij je computer bent om accountdiefstal te voorkomen.';
 // Maybe some more text for the future
 // Examples
 $txt['ln_bbc_b'] = 'Deze tekst is vetgedrukt.';

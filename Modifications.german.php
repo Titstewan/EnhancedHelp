@@ -13,8 +13,8 @@ $txt['ln_bbc_opt'] = 'Option';
 $txt['ln_bbc_lin'] = 'Link';
 $txt['ln_group_page'] = 'Nützliche Links: <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?topic=6770.0">Website-Regeln</a> | <a id="button_rss" class="new_win" href="https://forum.learnnavi.org/index.php?action=groups">Gruppenseite</a>';
 // General help
-$txt['ln_main_text1'] = '<strong>Einloggen</strong><br />Um erfolgreich einzuloggen, musst du dein <strong>Benutzernamen</strong> (nicht zu verwechseln mit dein <strong>Anzeigenamen</strong>!) benutzen. Ein Benutzername ist der Name zum Einloggen in ein SMF Forum und es ist der Name, welches du beim registrieren deines Benutzerkonto für dieses Forum benutzt hast.';
-$txt['ln_main_text2'] = '<strong>Sicherheit des Benutzerkontos</strong><br />Du solltest dein Benutzerkonto für das Forum Aufmerksamkeit schenken, insbesondere den Schutz. Logge dich aus dem Forum, wenn du gehen musst oder du nicht am Computer bist, um Kontodiebstal zu vorzubeugen.';
+$txt['ln_main_text1'] = '<b>Einloggen</b><br />Um erfolgreich einzuloggen, musst du dein <b>Benutzernamen</b> (nicht zu verwechseln mit dein <b>Anzeigenamen</b>!) benutzen. Ein Benutzername ist der Name zum Einloggen in ein SMF Forum und es ist der Name, welches du beim registrieren deines Benutzerkonto für dieses Forum benutzt hast.';
+$txt['ln_main_text2'] = '<b>Sicherheit des Benutzerkontos</b><br />Du solltest dein Benutzerkonto für das Forum Aufmerksamkeit schenken, insbesondere den Schutz. Logge dich aus dem Forum, wenn du gehen musst oder du nicht am Computer bist, um Kontodiebstal zu vorzubeugen.';
 // Maybe some more text for the future
 // Examples
 $txt['ln_bbc_b'] = 'Dieser Text ist fett.';
