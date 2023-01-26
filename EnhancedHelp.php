@@ -22,7 +22,7 @@ enhanced_help();
 The text strings for translations are in /Themes/default/languages/Modifications.english.php
 */
 if (!defined('SMF'))
-	die('Hacking attempt...');
+	die('No direct access...');
 
 // This is a rather HUGE function with tons of $txt variables...
 // However, this thing is written modulary, especially the BB code part for adding or changing BB codes.
@@ -95,8 +95,8 @@ function enhanced_help()
 						</fieldset>
 						<fieldset>
 							<legend>', $txt['ln_bbc_out'], '</legend>
-							<strong>', $txt['ln_bbc_b'], '</strong><br>
-							<em>', $txt['ln_bbc_i'], '</em><br>
+							<b>', $txt['ln_bbc_b'], '</b><br>
+							<i>', $txt['ln_bbc_i'], '</i><br>
 							<span class="bbc_u">', $txt['ln_bbc_u'], '</span><br>
 							<del>', $txt['ln_bbc_s'], '</del>
 						</fieldset>
@@ -531,14 +531,13 @@ function enhanced_help()
 						<div class="title_bar"><h4 id="ln_help_19" class="titlebg">', $txt['ln_bbc_19'], '</h4></div>
 						<fieldset>
 							<legend>', $txt['ln_bbc_syn'], '</legend>
-							[audio]', $txt['ln_bbc_audio'], '[/audio]<br>
-							[audio=', $txt['ln_bbc_audio'], ']', $txt['ln_bbc_tex'], '[/audio]
+							[audio]', $txt['ln_bbc_audio'], '[/audio]
 							<hr />
-							[justify]', $txt['ln_bbc_ln_link'], '[/justify]<br>
+							[justify]', $txt['ln_bbc_ln_link'], '[/justify]
 							<hr />
 							[pre]', $txt['ln_bbc_tex'], '[/pre]
 							<hr />
-							[tt]', $txt['ln_bbc_tex'], '[/tt]
+							[youtube]YouTube Video ID[/youtube]
 							<hr />
 							[nobbc]', $txt['ln_bbc_nobbc'], '[/nobbc]
 							<hr />
@@ -548,7 +547,7 @@ function enhanced_help()
 					</div>
 					<div align="center">
 					<div class="title_bar" style="margin-bottom: 15px;"><h4 class="titlebg" style="color: transparent;">Kaltxì ulte seysonìltsan! Ngal rolun faylì\'ut aketsuktse\'a.</h4></div>
-					Created by <a href="http://forum.learnnavi.org/index.php?action=profile;u=10322">Tìtstewan</a>
+					Created by <a href="https://forum.learnnavi.org/index.php?action=profile;u=10322">Tìtstewan</a>
 					</div>
 				</div>
 			</div>';
